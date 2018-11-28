@@ -1,5 +1,5 @@
 # ann-windspeed-forecast
-Ensemble ANN with two ensembles a MLP and LSTM network for wind speed prediction
+Ensemble ANN with two ensembles a MLP and LSTM network for wind speed prediction from data collected with windGURU stations
 
 To run the predictions run directly one of theese files:
 
