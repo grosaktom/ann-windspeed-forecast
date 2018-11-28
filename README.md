@@ -18,10 +18,12 @@ Note: Files only cointain structures of the .csv files, permission to release th
 The measurements files are pretty straightforward, but the WRF forecast files cointain under the rows with id_var
 
 id_var=1 : wind speed
+
 id_var=2 : wind direction
+
 id_var=3 : temperature
 
-The forecast is placed in the h[n] collun
+**The forecast is placed in the h[n] collumn**
 
 column h1 : Forecast for hour +1 from the initialization time in 'datum' collumn
 
