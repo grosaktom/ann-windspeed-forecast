@@ -24,8 +24,13 @@ id_var=3 : temperature
 The forecast is placed in the h[n] collun
 
 column h1 : Forecast for hour +1 from the initialization time in 'datum' collumn
+
 column h2 : Forecast for hour +2 from the initialization time in 'datum' collumn
+
 column h3 : Forecast for hour +3 from the initialization time in 'datum' collumn
+
 ...
+
 ...
+
 column h78 : Forecast for hour +78 from the initialization time in 'datum' collumn
